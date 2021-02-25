@@ -2,7 +2,7 @@
 
 - 🔭  I'm specially interested in data engineering and data pipelines platforms.
 - :bulb: Open source advocate
-- :runner: My faviorte sport is Trail Running.
+- :runner: My favorite sport is Trail Running.
 
 ## Contact Me
 
