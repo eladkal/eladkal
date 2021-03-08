@@ -2,6 +2,8 @@
 
 - 🔭  I'm specially interested in data engineering and data pipelines platforms.
 - :bulb: Open source advocate.
+- :mag_right: [Apache-Airflow](https://github.com/apache/airflow) committer.
+- :computer: Data Engineer at [Wix](https://www.wix.com) 
 - :runner: My favorite sport is Trail Running.
 
 ## Contact Me
@@ -13,7 +15,7 @@
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/DB-MsSQL-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/DB-Presto-informational?style=flat&logo=presto&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/DB-Trino-informational?style=flat&logo=presto&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/DB-Trino-informational?style=flat&logo=trino&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/DB-Snowflake-informational?style=flat&logo=snowflake&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/DB-BigQuery-informational?style=flat&logo=google-cloud&logoColor=white&color=6aa6f8)
 
