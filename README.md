@@ -2,7 +2,7 @@
 
 - 🔭  I'm specially interested in data engineering and data pipelines platforms.
 - :bulb: Open source advocate.
-- :mag_right: [Apache-Airflow](https://github.com/apache/airflow) committer.
+- :mag_right: [Apache-Airflow](https://github.com/apache/airflow) committer & PMC member.
 - :computer: Data Engineer at [Wix](https://www.wix.com) 
 - :runner: My favorite sport is Trail Running.
 
@@ -21,51 +21,8 @@
 
 ![](https://img.shields.io/badge/Tools-Apache--Airflow-informational?style=flat&logo=apache-airflow&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=6aa6f8)
-
-
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-
-class DataEngineer:
-
-    def __init__(self):
-        self.name = 'Elad Kalif'
-        self.role = 'Data Engineer'
-        self.location = 'Tel Aviv'
-        self.knowledge_base = [
-            'Software Engineering',
-            'Data Pipelines',
-            'Python',
-            'SQL',
-            'Various DBs',
-            'Query Optimization',
-            ]
-        self.knowledge_base.insert(0, 'Apache Airflow')
-
-    def say_hi(self):
-        print("""Hello, thanks for dropping by!
-
-This is {name}, I live in {location}. I work as a {role} and my main focus is {focus}.
-
-I have wide interests, to name a few {knowledge_base} & {knowledge_base_last}.""".format(
-            name=self.name,
-            location=self.location,
-            role=self.role,
-            focus=self.knowledge_base[0],
-            knowledge_base=', '.join(self.knowledge_base[:-1]),
-            knowledge_base_last=self.knowledge_base[-1]
-            )
-        )
-
-
-me = DataEngineer()
-me.say_hi()
-
-
-```
