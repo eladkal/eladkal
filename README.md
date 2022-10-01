@@ -3,7 +3,7 @@
 - 🔭  I'm specially interested in data engineering and data pipelines platforms.
 - :bulb: Open source advocate.
 - :mag_right: [Apache-Airflow](https://github.com/apache/airflow) committer & PMC member.
-- :computer: Data Engineer at [Wix](https://www.wix.com) 
+- :computer: Data Engineer at Amazon
 - :runner: My favorite sport is Trail Running.
 
 ## Contact Me
