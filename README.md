@@ -8,7 +8,7 @@
 
 ## Contact Me
 
-[![Linkedin Badge](https://img.shields.io/badge/-EladKalif-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elad-kalif-811b4887)](https://www.linkedin.com/in/elad-kalif-811b4887) [![Twitter Badge](https://img.shields.io/badge/-eladkal-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/eladkal)](https://twitter.com/eladkal) [![Gmail Badge](https://img.shields.io/badge/-eladkal@apache.org-blue?style=flat-square&logo=Gmail&logoColor=white)](mailto:eladkal@apache.org) [![Stackoverflow Badge](https://img.shields.io/badge/-eladkal-blue?style=flat-square&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/14624409/elad)
+[![Linkedin Badge](https://img.shields.io/badge/-EladKalif-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elad-kalif-811b4887)](https://www.linkedin.com/in/elad-kalif-811b4887) [![Gmail Badge](https://img.shields.io/badge/-eladkal@apache.org-blue?style=flat-square&logo=Gmail&logoColor=white)](mailto:eladkal@apache.org) [![Stackoverflow Badge](https://img.shields.io/badge/-eladkal-blue?style=flat-square&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/14624409/elad)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
